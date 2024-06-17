@@ -1,6 +1,6 @@
-title: Wzqar Hussain Shah
+title: Waqar  Hussain  Shah
 description: Algebraic Topology, Dynamical Systems, Time Series Analysis, & Topological Data Analysis
-site_title: '@abhn - Abhishek Nagekar'
+site_title: '@abhn - Waqar Hussain Shah'
 
 # Build settings
 markdown: kramdown
@@ -8,11 +8,11 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: shahwaqarhussain
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+#blog_url: https://www.nagekar.com
+email: waqar.shah8251@alumnos.udg.mx
+#keybase_username: abhn
+#twitter_username: abhn_
+#reddit_username: abhn
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
