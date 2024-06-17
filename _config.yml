@@ -1,5 +1,5 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
+title: Wzqar Hussain Shah
+description: Algebraic Topology, Dynamical Systems, Time Series Analysis, & Topological Data Analysis
 site_title: '@abhn - Abhishek Nagekar'
 
 # Build settings
@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: shahwaqarhussain
 blog_url: https://www.nagekar.com
 email: abhishek@nagekar.com
 keybase_username: abhn
